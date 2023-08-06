@@ -13,10 +13,11 @@ a{
     margin: 0 auto;
 }
 /* banner part start here */
-.banner{
+
+.banner {
     width: 100%;
     position: relative;
-    
+    padding-bottom: 90px;
 }
 
 .banner_logo {
